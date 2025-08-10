@@ -39,7 +39,7 @@ EMBEDDING_MODEL=all-MiniLM-L6-v2
 # 4. Test your setup by running: python test_groq_api.py
 #
 # Your API key should look something like:
-# gsk_1234567890abcdef1234567890abcdef1234567890abcdef
+# gsk_1234567890abcdef1234567890abcd
 #
 # Keep your API key secret - never share it publicly!
 
