@@ -1,7 +1,7 @@
 # 🚀 AI Trading Analysis Hub
 
 
-Main Topic any one run this project first create .env file 
+Main Topic anyone run this project first create .env file 
 then add : - this api key
 
 # API Keys for Financial Trading Analysis Hub
