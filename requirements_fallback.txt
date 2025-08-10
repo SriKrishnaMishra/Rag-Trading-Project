@@ -1,0 +1,17 @@
+# Core requirements that should work on all systems
+streamlit>=1.28.0
+yfinance>=0.2.20
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+feedparser>=3.0.0
+python-dotenv>=1.0.0
+
+# Try to install these, but app will work without them
+# Uncomment if installation succeeds:
+# groq>=0.4.0
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
+# TA-Lib>=0.4.0
